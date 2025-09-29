@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="demon-slayer-inosuke.gif" width="600">
+</p>
+
 
 <!--
 **hcan0x/hcan0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
