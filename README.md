@@ -22,10 +22,8 @@
 
 ---
 ### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hcan0x&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcan0x&layout=compact&theme=radical)
----
-
-### 📬 Connect With Me
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hcan0x&theme=radical" alt="GitHub Streak Stats" />
+</p>
+📬 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-can-19386b30b)
